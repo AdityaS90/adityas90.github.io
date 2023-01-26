@@ -2,7 +2,7 @@
 name: UI/UX Design for Insights Club
 tools: [Figma]
 image: https://insights-club-vitb.ml/static/media/logo.be348bfabd6239fe96e4.png
-description: A simple and minimalistic UI & UX Design 
+description: A simple and minimalistic UI & UX Design for the official club website.
 ---
 
 <p class="text-center">
