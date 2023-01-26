@@ -6,6 +6,18 @@
   percentage: 90
   color: info
 
+- name: UI Design
+  percentage: 90
+  color: info
+  
+  - name: UX Research
+  percentage: 60
+  color: info
+
 - name: Adobe Fresco
   percentage: 70
+  color: info
+  
+  - name: Digital art
+  percentage: 90
   color: info
