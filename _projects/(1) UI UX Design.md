@@ -19,6 +19,6 @@ Insights Club's objective is to provide a uniform flow of information directly a
 My experience with Insights has been a wonderful journey so far. The Technical Team has been very supportive and helpful in the whole designing and development process. All the ideas I pitched were listened to and delibrated. I am also happy to inform that my inputs were later implemented in the website aswell. I hope to continue working with the Club and giving my best for the future of the team.
 
 ## Tools used
->Figma
->Fontjoy
->Coolors
+1. Figma
+2. Fontjoy
+3. Coolors
