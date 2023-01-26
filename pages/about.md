@@ -11,7 +11,7 @@ Hi I am **{{ site.author.name }}** :wave:,<br>
 I am Aditya, currently pursuing my higher studies in B.Tech (CSE) from VIT Bhopal (3rd year). I aim to develop my designing skills as well as gain working experience while also financially supporting my family. 
 
 <div class="row">
-{% include about/skills.html title="My Skills" source=site.data.programming-skills %}
+{% include about/skills.html title="My Skills" source=site.data.my-skills %}
 {% include about/skills.html title="Other Skills" source=site.data.other-skills %}
 </div>
 
