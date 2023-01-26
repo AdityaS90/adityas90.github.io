@@ -1,7 +1,15 @@
 ---
 name: UI UX Design for Insights Club
 tools: [Figma]
-image:
+image: https://insights-club-vitb.ml/static/media/logo.be348bfabd6239fe96e4.png
 description: A simple and minimalistic UI UX Design 
-external_url: https://insights-club-vitb.ml/
 ---
+
+## What is Insights club?
+
+“INSIGHTS” is a journalistic community club. Our goal is to create and distribute reports about the interactions of events, facts, and ideas that are “the news of the day”. The speciality of the Insights club will be to provide a bi-weekly newsletter that sums up all the ongoing, upcoming, and completed events, seminars, fests, etc.
+
+Insights Club's objective is to provide a uniform flow of information directly and through the students of our university regarding all the events and current affairs of the university through online mode (web/socials) and on-field journalism. We intend to hold certain intra-campus events where students from any branch and campus are welcome to participate. The club will also focus on improving abilities that will stimulate the creation of innovative media messages.
+
+## My Exprience
+My experience with Insights has been a wonderful journey up until now. 
