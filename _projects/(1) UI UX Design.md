@@ -21,4 +21,4 @@ My experience with Insights has been a wonderful journey so far. The Technical T
 ## Tools used
 >Figma
 >Fontjoy
->Coolor
+>Coolors
