@@ -1,6 +1,6 @@
 ---
 name: UI UX Design for Insights Club
-tools: [Figma], [Coolors], [Fontjoy]
+tools: [Figma]
 image: https://insights-club-vitb.ml/static/media/logo.be348bfabd6239fe96e4.png
 description: A simple and minimalistic UI UX Design 
 ---
