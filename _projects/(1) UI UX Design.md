@@ -16,9 +16,9 @@ description: A simple and minimalistic UI UX Design
 Insights Club's objective is to provide a uniform flow of information directly and through the students of our university regarding all the events and current affairs of the university through online mode (web/socials) and on-field journalism. We intend to hold certain intra-campus events where students from any branch and campus are welcome to participate. The club will also focus on improving abilities that will stimulate the creation of innovative media messages.
 
 ## My Exprience
-My experience with Insights has been a wonderful journey up until now. Technical team has been very supportive and helpful in the whole designing and development journey. All the ideas I pitched were listened and respected and I'm happy to tell that my ideas were later implemented in the website.
+My experience with Insights has been a wonderful journey so far. The Technical Team has been very supportive and helpful in the whole designing and development process. All the ideas I pitched were listened to and delibrated. I am also happy to inform that my inputs were later implemented in the website aswell. I hope to continue working with the Club and giving my best for the future of the team.
 
 ## Tools used
-1. Figma
-2. Fontjoy
-3. Coolor
+>Figma
+>Fontjoy
+>Coolor
