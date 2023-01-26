@@ -6,7 +6,7 @@ description: A simple and minimalistic UI UX Design
 ---
 
 <p class="text-center">
-{% include elements/button.html link="https://insights-club-vitb.ml/" text="Source Code" %}
+{% include elements/button.html link="https://insights-club-vitb.ml/" text="Visit Website" %}
 </p>
 
 ## What is Insights club?
