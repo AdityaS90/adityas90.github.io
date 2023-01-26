@@ -7,7 +7,7 @@ weight: 3
 
 # **A little bit about myself**
 
-Hi I am **{{ site.author.name }}** :wave:,<br>
+Hi! I am **{{ site.author.name }}** :wave:,<br>
 I am currently pursuing my higher studies in B.Tech (CSE) from VIT Bhopal (3rd year). I aim to develop my designing skills as well as to gain working experience while also financially supporting my family. 
 
 <div class="row">
