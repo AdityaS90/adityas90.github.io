@@ -1,0 +1,11 @@
+- name: Procreate
+  percentage: 100
+  color: info
+
+- name: Figma
+  percentage: 90
+  color: info
+
+- name: Adobe Fresco
+  percentage: 70
+  color: info
